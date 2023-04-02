@@ -5,7 +5,7 @@ const nextConfig = {
     return [
       {
         source: '/',
-        destination: '/fr',
+        destination: 'dofus/fr',
         permanent: true,
       },
       
