@@ -6,7 +6,6 @@ import { useEffect, useState } from 'react';
 import db  from '../../Firebase';
 import { doc, setDoc, updateDoc } from "firebase/firestore";
 import axios from 'axios';
-import { ThreeCircles } from  'react-loader-spinner'
 import  Router, { useRouter }  from 'next/router';
 
 
